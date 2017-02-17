@@ -1,0 +1,31 @@
+package impostos;
+
+public enum Estado {
+	   Acre, 
+	   Alagoas, 
+	   Amapa, 
+	   Amazonas, 
+	   Bahia, 
+	   Ceara, 
+	   DistritoFederal, 
+	   EspiritoSanto, 
+	   Goias, 
+	   Maranhao, 
+	   MatoGrosso, 
+	   MatoGrossoDoSul, 
+	   MinasGerais, 
+	   Parana, 
+	   Paraiba, 
+	   Para, 
+	   Pernambuco, 
+	   Piaui, 
+	   RioDeJaneiro, 
+	   RioGrandeDoNorte, 
+	   RioGrandeDoSul, 
+	   Rondonia, 
+	   Roraima, 
+	   SantaCatarina, 
+	   Sergipe, 
+	   SaoPaulo, 
+	   Tocantins
+}
