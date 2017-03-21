@@ -1,0 +1,7 @@
+/**
+ *
+ * @author ra21606437
+ */
+public enum Signos {
+    ARIES, TOURO, GEMEOS, CANCER, LEAO, VIRGEM, LIBRA, ESCORPIAO, SAGITARIO, CAPRICORNIO, AQUARIO, PEIXES 
+}
